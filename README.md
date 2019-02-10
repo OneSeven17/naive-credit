@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/OneSeven17/naive-credit.svg?branch=master)](https://travis-ci.org/OneSeven17/naive-credit)
+[![Build Status](https://travis-ci.org/OneSeven17/naive-credit.svg?branchpip=master)](https://travis-ci.org/OneSeven17/naive-credit)
